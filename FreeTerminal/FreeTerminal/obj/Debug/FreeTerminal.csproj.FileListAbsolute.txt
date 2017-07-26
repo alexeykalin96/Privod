@@ -1,0 +1,9 @@
+D:\FreeTerminal\FreeTerminal\bin\Debug\FreeTerminal.exe.config
+D:\FreeTerminal\FreeTerminal\bin\Debug\FreeTerminal.exe
+D:\FreeTerminal\FreeTerminal\bin\Debug\FreeTerminal.pdb
+D:\FreeTerminal\FreeTerminal\obj\Debug\FreeTerminal.csprojResolveAssemblyReference.cache
+D:\FreeTerminal\FreeTerminal\obj\Debug\FreeTerminal.Form1.resources
+D:\FreeTerminal\FreeTerminal\obj\Debug\FreeTerminal.Properties.Resources.resources
+D:\FreeTerminal\FreeTerminal\obj\Debug\FreeTerminal.csproj.GenerateResource.Cache
+D:\FreeTerminal\FreeTerminal\obj\Debug\FreeTerminal.exe
+D:\FreeTerminal\FreeTerminal\obj\Debug\FreeTerminal.pdb
